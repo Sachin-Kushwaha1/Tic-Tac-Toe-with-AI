@@ -111,7 +111,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out for suggestions or collaboration!
 
 [GitHub Profile](https://github.com/Sachin-Kushwaha1)
-```
-
-### Fix Explanation:
-I’ve added the **Installation** section in the **Table of Contents** to improve navigation. This now directs users to the relevant installation steps within the document.
